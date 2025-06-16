@@ -1,0 +1,10 @@
+{
+  "prompt": "",
+  "goal": "",
+  "context": "",
+  "llm_tested": ["gpt-4", "claude-3"],
+  "status": "draft",
+  "observations": [],
+  "author": "Bartłomiej Chudzik",
+  "version": "v1"
+}
